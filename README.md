@@ -12,14 +12,16 @@
 - 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **admin@pmilan.com.np**
+<div align="center">
 
-|Over All Stats                                                                                                                 |
-|:-----------------------------------------------------------------------------------------------------------------------------:|
+|Over All Stats|
+|:-------:|
 |<code><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paudelmilan&" alt="paudelmilan" /></code>|
 
+</div>
   
 |Stats|Stats|
-|---|---|
+|:---:|:---:|
 |<code><img align="center" src="https://github-readme-stats.vercel.app/api?username=paudelmilan&show_icons=true&locale=en" alt="paudelmilan" /></code>|<code>[![PaudelMilan's GitHub &# Stats](https://stats.quira.sh/PaudelMilan/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=PaudelMilan)</code> | 
 |<code><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paudelmilan&show_icons=true&locale=en&layout=compact" alt="paudelmilan" /></code>|<code> [![PaudelMilan's GitHub &# Languages Over Time](https://stats.quira.sh/PaudelMilan/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=PaudelMilan) </code>|
 
