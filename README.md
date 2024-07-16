@@ -15,6 +15,10 @@
 
 - ⚡ Fun fact **I**
 
+[![PaudelMilan's GitHub | Stats](https://stats.quira.sh/PaudelMilan/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=PaudelMilan)
+[![PaudelMilan's GitHub | Languages Over Time](https://stats.quira.sh/PaudelMilan/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=PaudelMilan)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mpdl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mpdl" height="30" width="40" /></a>
@@ -31,8 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paudelmilan&show_icons=true&locale=en" alt="paudelmilan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paudelmilan&" alt="paudelmilan" /></p>
-[![PaudelMilan's GitHub | Stats](https://stats.quira.sh/PaudelMilan/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=PaudelMilan)]
-[![PaudelMilan's GitHub | Languages Over Time](https://stats.quira.sh/PaudelMilan/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=PaudelMilan)]
 
 
 
