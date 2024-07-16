@@ -12,18 +12,17 @@
 - 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **admin@pmilan.com.np**
+  
+|Stats|Languages|
+|---|---|
+|<code>[![PaudelMilan's GitHub &# Stats](https://stats.quira.sh/PaudelMilan/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=PaudelMilan)</code> | <code> [![PaudelMilan's GitHub &# Languages Over Time](https://stats.quira.sh/PaudelMilan/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=PaudelMilan) </code>|
 
-- ⚡ Fun fact **I**
-
-[![PaudelMilan's GitHub | Stats](https://stats.quira.sh/PaudelMilan/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=PaudelMilan)
-[![PaudelMilan's GitHub | Languages Over Time](https://stats.quira.sh/PaudelMilan/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=PaudelMilan)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mpdl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mpdl" height="30" width="40" /></a>
 <a href="https://kaggle.com/melan3461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="melan3461" height="30" width="40" /></a>
-<a href="https://fb.com/melan3461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="melan3461" height="30" width="40" /></a>
 <a href="https://instagram.com/paudelmelan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paudelmelan" height="30" width="40" /></a>
 </p>
 
