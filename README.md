@@ -12,13 +12,11 @@
 - 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **admin@pmilan.com.np**
-<p align="center">
 
-|Over All Stats|
-|---|
+|Over All Stats                                                                                                                 |
+|:-----------------------------------------------------------------------------------------------------------------------------:|
 |<code><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paudelmilan&" alt="paudelmilan" /></code>|
 
-</p>
   
 |Stats|Stats|
 |---|---|
