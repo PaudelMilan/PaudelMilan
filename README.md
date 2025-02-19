@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Science**
 
-- 📫 How to reach me **admin@pmilan.com.np**
+- 📫 How to reach me **me@pmilan.com.np**
 <div align="center">
 
 |Over All Stats|
