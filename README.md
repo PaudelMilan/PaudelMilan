@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paudelmilan" alt="paudelmilan" /></a> </p>
 
-- 🔭 I’m currently working on **AI Slide Generation**
+- 🔭 I’m currently working on **Masters Thesis**
 
 - 🌱 I’m currently learning **Deep Learning**
 
